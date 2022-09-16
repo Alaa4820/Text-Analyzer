@@ -1,5 +1,5 @@
 # Text-Analyzer QT
-> Progetto del corso 'Programmazione C++' del febbraio del 2021 (Università Milano-Bicocca)
+> Progetto del corso 'Programmazione C++' del febbraio del 2022 (Università Milano-Bicocca)
 
 Il progetto richiede la creazione di un tool, provvisto di interfaccia grafica, per ottenere una serie di informazioni relative a un file di testo. Nello specifico deve poter calcolare e visualizzare il numero di: 
 - Caratteri (inclusa punteggiatura e spazi) 
